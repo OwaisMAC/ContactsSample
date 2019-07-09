@@ -1,1 +1,1 @@
-# ContactsSample
+- Loading user contacts
